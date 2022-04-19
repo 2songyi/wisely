@@ -13,7 +13,8 @@ a.common-btn {
   color: white;
   border-radius: 5px;
   font-size: 20px;
-  background: #0055b8;
+  /* background: #0055b8; */
+  background: red;
   /* margin-top: 40px; 여기서 넣으면 안됨 공통속성으로 만든거라 모든 버튼에 들어가게 돼서*/
 }
 
